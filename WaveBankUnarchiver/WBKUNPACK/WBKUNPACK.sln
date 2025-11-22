@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WBKUNPACK", "WBKUNPACK.vbproj", "{BB27B368-5635-4DE8-8ED9-96DA0717E96F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB27B368-5635-4DE8-8ED9-96DA0717E96F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB27B368-5635-4DE8-8ED9-96DA0717E96F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB27B368-5635-4DE8-8ED9-96DA0717E96F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB27B368-5635-4DE8-8ED9-96DA0717E96F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70635B49-9A5E-4695-8B80-C1E5DC04CB36}
+	EndGlobalSection
+EndGlobal

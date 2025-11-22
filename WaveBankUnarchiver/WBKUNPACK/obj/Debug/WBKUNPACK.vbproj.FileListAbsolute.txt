@@ -1,0 +1,12 @@
+C:\Users\athos\source\WBKUNPACK\bin\Debug\WBKUNPACK.exe.config
+C:\Users\athos\source\WBKUNPACK\bin\Debug\WBKUNPACK.exe
+C:\Users\athos\source\WBKUNPACK\bin\Debug\WBKUNPACK.pdb
+C:\Users\athos\source\WBKUNPACK\bin\Debug\WBKUNPACK.xml
+C:\Users\athos\source\WBKUNPACK\obj\Debug\WBKUNPACK.vbproj.AssemblyReference.cache
+C:\Users\athos\source\WBKUNPACK\obj\Debug\WBKUNPACK.Resources.resources
+C:\Users\athos\source\WBKUNPACK\obj\Debug\WBKUNPACK.vbproj.GenerateResource.cache
+C:\Users\athos\source\WBKUNPACK\obj\Debug\WBKUNPACK.vbproj.CoreCompileInputs.cache
+C:\Users\athos\source\WBKUNPACK\obj\Debug\WBKUNPACK.exe
+C:\Users\athos\source\WBKUNPACK\obj\Debug\WBKUNPACK.xml
+C:\Users\athos\source\WBKUNPACK\obj\Debug\WBKUNPACK.pdb
+C:\Users\athos\source\WBKUNPACK\obj\Debug\WBKUNPACK.exe.config
