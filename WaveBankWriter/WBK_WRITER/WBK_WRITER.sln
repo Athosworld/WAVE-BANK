@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WBK_WRITER", "WBK_WRITER.vbproj", "{F0591DCC-DC0B-4CE8-A08C-F615F31A9F66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0591DCC-DC0B-4CE8-A08C-F615F31A9F66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0591DCC-DC0B-4CE8-A08C-F615F31A9F66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0591DCC-DC0B-4CE8-A08C-F615F31A9F66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0591DCC-DC0B-4CE8-A08C-F615F31A9F66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1D2F86A-D69D-41C0-9DA6-79CDE4A64CEC}
+	EndGlobalSection
+EndGlobal
